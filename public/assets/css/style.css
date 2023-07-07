@@ -1,0 +1,3 @@
+tr th:first-child, tr td:first-child {
+    display: none;
+}
